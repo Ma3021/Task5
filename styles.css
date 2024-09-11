@@ -1,0 +1,31 @@
+.form{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgb(144, 167, 129);
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+ .form1{
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    padding: 50px;
+    margin: 30px;
+    background-color: rgb(144, 167, 129);
+    padding-top: 50px;
+    padding-bottom: 40px;
+
+ }
+ #forget{
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    padding: 50px;
+    margin: 30px;
+    background-color: rgb(144, 167, 129);
+    padding-top: 50px;
+    padding-bottom: 40px;
+ }
